@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.user
+
+# Unity meta files for ignored folders
+Samples~/.meta
+Documentation~/.meta

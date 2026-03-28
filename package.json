@@ -1,0 +1,15 @@
+{
+  "name": "com.dylanreedsmith.unity-utils",
+  "version": "1.0.0",
+  "displayName": "Dylan's Unity Utilities",
+  "description": "Common scripts, components, and systems for Unity projects.",
+  "category":"Utility",
+  "unity": "6000.3",
+  "author": {
+    "name": "Dylan Reed Smith",
+    "url": "https://github.com/dhdylan"
+  },
+  "license": "MIT",
+  "keywords": ["utilities", "gameplay", "systems"],
+  "dependencies": {}
+}

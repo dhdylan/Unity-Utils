@@ -1,0 +1,10 @@
+{
+  "name": "Unity-Utilities.Runtime",
+  "rootNamespace": "Unity-Utilities",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "autoReferenced": true
+}
