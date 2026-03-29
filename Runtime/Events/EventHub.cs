@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using Core.Singleton;
+using DRS.Core.Singleton;
 
-namespace Core.Events
+namespace DRS.Core.Events
 {
     public class BaseEvent { };
 

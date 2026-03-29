@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
 
-namespace Core.UI
+namespace DRS.Core.UI
 {
     [RequireComponent(typeof(CanvasGroup))]
     public class FadeElement : MonoBehaviour

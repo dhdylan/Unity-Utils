@@ -1,4 +1,4 @@
-﻿namespace Core.Events
+﻿namespace DRS.Core.Events
 {
     public interface ISubscriber<T> where T : BaseEvent
     {

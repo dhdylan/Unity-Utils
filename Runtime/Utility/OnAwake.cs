@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Events;
 
-namespace Core.Utility
+namespace DRS.Core.Utility
 {
     class OnAwake : MonoBehaviour
     {

@@ -1,7 +1,7 @@
 {
-  "name": "Unity-Utilities.Editor",
-  "rootNamespace": "Unity-Utilities.Editor",
-  "references": ["Unity-Utilities.Runtime"],
+  "name": "DRS-Core.Editor",
+  "rootNamespace": "DRS-Core.Editor",
+  "references": ["DRS-Core.Runtime"],
   "includePlatforms": ["Editor"],
   "excludePlatforms": [],
   "allowUnsafeCode": false,

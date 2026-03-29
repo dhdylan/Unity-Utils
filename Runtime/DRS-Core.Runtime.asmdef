@@ -1,6 +1,6 @@
 {
-  "name": "Unity-Utilities.Runtime",
-  "rootNamespace": "Unity-Utilities",
+  "name": "DRS-Core.Runtime",
+  "rootNamespace": "DRS-Core",
   "references": [],
   "includePlatforms": [],
   "excludePlatforms": [],

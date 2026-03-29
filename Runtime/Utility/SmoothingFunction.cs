@@ -8,7 +8,7 @@
 
 using UnityEngine;
 
-namespace Core.Utility
+namespace DRS.Core.Utility
 {
 
     public class SmoothingFunction

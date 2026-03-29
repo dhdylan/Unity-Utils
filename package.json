@@ -1,7 +1,7 @@
 {
-  "name": "com.dylanreedsmith.unity-utils",
+  "name": "com.drs.core",
   "version": "1.0.0",
-  "displayName": "Dylan's Unity Utilities",
+  "displayName": "DRS Core",
   "description": "Common scripts, components, and systems for Unity projects.",
   "category":"Utility",
   "unity": "6000.3",

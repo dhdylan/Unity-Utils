@@ -6,6 +6,7 @@ Thumbs.db
 .idea/
 .vscode/
 *.user
+.vs/
 
 # Unity meta files for ignored folders
 Samples~/.meta
