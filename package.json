@@ -11,5 +11,14 @@
   },
   "license": "MIT",
   "keywords": ["utilities", "gameplay", "systems"],
-  "dependencies": {}
+  "dependencies": {
+    "com.mackysoft.serializereference-extensions":"1.7.0"
+  },
+  "samples": [
+    {
+      "displayName": "AI Sample",
+      "description": "Contains a handful of scripts, assets and a scene that demonstrates use of the DRS Core AI State Machine",
+      "path": "Samples~/AI Sample"
+    }
+  ]
 }
