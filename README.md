@@ -10,5 +10,6 @@ Installing this package can be done by Opening Package Manager -> "Add from git 
 
 # Coming Up
 - More samples scenes/scripts
-- Official documentation
-- .unitypackage releases on Github
+- More documentation
+- .unitypackage available on Github
+
