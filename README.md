@@ -20,3 +20,5 @@ Installing this package can be done by Opening Package Manager -> "Add from git 
 - More documentation
 - .unitypackage available on Github
 
+Hello!
+
